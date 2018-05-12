@@ -1,0 +1,13 @@
+Monuments:
+Sydney Opera House
+Taj Mahal
+Eiffel Tower
+Pyramids of Giza + half-lion/half-man statue
+Statue of Liberty
+
+Logos:
+DARPA
+NSF
+UIUC
+NanoCEMMS
+US Govt
