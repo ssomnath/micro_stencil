@@ -19,6 +19,10 @@ Stencil package complements the `Smart Litho package <https://github.com/ssomnat
 user the ability to conveniently generate a customized line-image and
 import it into ``Igor PRO`` using ``Smart Litho``.
 
+Journal papers that used this software
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* Somnath, Suhas, Hoe Joon Kim, Huan Hu, and William P. King. "Parallel nanoimaging and nanolithography using a heated microcantilever array." Nanotechnology 25, no. 1 (2013): 014001.
+
 Installing & starting Micro-stencil
 -------------------------------------
 
