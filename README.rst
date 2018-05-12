@@ -74,7 +74,8 @@ Smart Litho and Micro Stencil.
 |image2| 
 
 **(d)**: The University of Illinois logo written in poly methyl
-methacrylate on a ZnSe substrate at 120\ :sup:`o`\ C
+methacrylate on a ZnSe substrate at 120\ :sup:`o`\ C via Thermal Dip Pen Nanolithography (tDPN). 
+Lithography performed by `Prof. Jonathan R. Felts <https://engineering.tamu.edu/mechanical/people/felts-jonathan.html>`_
 
 |image3|
 
